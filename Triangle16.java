@@ -6,7 +6,7 @@ public class Triangle16 {
         System.out.print("masukkan nilai n = ");
         int n = sc.nextInt();
 
-        int i = 0;
+        int i = 1;
         while (i <= n) {
             int j = 0;
             while (j < i) {
